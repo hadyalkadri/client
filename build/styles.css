@@ -1,0 +1,116 @@
+body{
+    background-color: #10466C;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.player{
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+.selectors{
+    display: flex;
+    justify-content: center;
+}
+.iframePlayer{
+    
+}
+.button{
+
+}
+
+
+@media screen and (max-width: 390px) {
+    .player{
+        background-color: #2787CB;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        margin-top: 100px;
+        padding: 20px;
+        border: 1px solid black;
+        border-radius: 10px;
+        box-shadow: 2px 2px 10px 1px black;
+    }
+    .videoPlayer{
+        margin: auto;
+    }
+    .videoPlayer > h1{
+        padding-left: 1.8rem;
+        margin-bottom: 50px;
+        color: teal;
+        text-transform: uppercase;
+    }
+    .videoPlayer > div > h3{
+        padding-left: 1rem;
+        font-size: 16px;
+        color: aliceblue;
+        text-transform: uppercase;
+    }
+    .selectors{
+        display: flex;
+        justify-content: center;
+        margin-top: 80px;
+    }
+    
+    .button{
+        border-radius: 25px;
+        background-color: teal;
+    }
+    .iframePlayerFull{
+        position: absolute;
+        right: 4px;
+        bottom: 15px;
+        height: 100vh;
+        width: 100vw;
+    }
+}
+
+@media screen and (max-width: 844px) {
+    .player{
+        background-color: #2787CB;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        margin-top: 100px;
+        padding: 20px;
+        border: 1px solid black;
+        border-radius: 10px;
+        box-shadow: 2px 2px 10px 1px black;
+    }
+    .videoPlayer{
+        margin: auto;
+    }
+    .videoPlayer > h1{
+        padding-left: 1.8rem;
+        margin-bottom: 50px;
+        color: teal;
+        text-transform: uppercase;
+    }
+    .videoPlayer > div > h3{
+        padding-left: 1rem;
+        font-size: 16px;
+        color: aliceblue;
+        text-transform: uppercase;
+    }
+    .selectors{
+        display: flex;
+        justify-content: center;
+        margin-top: 80px;
+    }
+    
+    .button{
+        border-radius: 25px;
+        background-color: teal;
+    }
+    .iframePlayerFull{
+        position: fixed;
+        right: 4px;
+        bottom: 10px;
+        height: 100vh;
+        width: 100vw;
+    }
+}
