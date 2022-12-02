@@ -1,4 +1,6 @@
 [
+    {
+        "seasonOne": [    
         {
             "show_title": "better call saul ",
             "season": " season one ",
@@ -59,4 +61,133 @@
             "episode_no": "10",
             "episode_url": "https://gvadz.click/embed-6berqm1mxoq4.html"
         }
+    ]},
+    {
+        "seasonTwo": [
+            {
+                "show_title": "better call saul ",
+                "season": " season two ",
+                "episode_no": "1",
+                "episode_url": "https://gvadz.click/embed-t592uxf8dxb5.html"
+            },
+            {
+                "show_title": "better call saul ",
+                "season": " season two ",
+                "episode_no": "2",
+                "episode_url": "https://gvadz.click/embed-51o65of4ahq6.html"
+            },
+            {
+                "show_title": "better call saul ",
+                "season": " season two ",
+                "episode_no": "3",
+                "episode_url": "https://gvadz.click/embed-xsdi2ltbi368.html"
+            },
+            {
+                "show_title": "better call saul ",
+                "season": " season two ",
+                "episode_no": "4",
+                "episode_url": "https://gvadz.click/embed-vfg8gqm2fkkx.html"
+            },
+            {
+                "show_title": "better call saul ",
+                "season": " season two ",
+                "episode_no": "5",
+                "episode_url": "https://gvadz.click/embed-5jboez4mzw74.html"
+            },
+            {
+                "show_title": "better call saul ",
+                "season": " season two ",
+                "episode_no": "6",
+                "episode_url": "https://gvadz.click/embed-do0xvnprcy2v.html"
+            },
+            {
+                "show_title": "better call saul ",
+                "season": " season two ",
+                "episode_no": "7",
+                "episode_url": "https://gvadz.click/embed-3y6bq0p9zz2x.html"
+            },
+            {
+                "show_title": "better call saul ",
+                "season": " season two ",
+                "episode_no": "8",
+                "episode_url": "https://gvadz.click/embed-8gy1fb0mlw5h.html"
+            },
+            {
+                "show_title": "better call saul ",
+                "season": " season two ",
+                "episode_no": "9",
+                "episode_url": "https://gvadz.click/embed-nd5vfrks7j77.html"
+            },
+            {
+                "show_title": "better call saul ",
+                "season": " season two ",
+                "episode_no": "10",
+                "episode_url": "https://gvadz.click/embed-nvcrr4k9wzig.html"
+            }
+        ]
+    },
+    {
+        "seasonThree": [
+            {
+                "show_title": "better call saul ",
+                "season": " season three ",
+                "episode_no": "1",
+                "episode_url": "https://gvadz.click/embed-rze9rkb4dus6.html"
+            },
+            {
+                "show_title": "better call saul ",
+                "season": " season three ",
+                "episode_no": "2",
+                "episode_url": "https://gvadz.click/embed-ozgvozticf90.html"
+            },
+            {
+                "show_title": "better call saul ",
+                "season": " season three ",
+                "episode_no": "3",
+                "episode_url": "https://gvadz.click/embed-4lsk9wf0fq7b.html"
+            },
+            {
+                "show_title": "better call saul ",
+                "season": " season three ",
+                "episode_no": "4",
+                "episode_url": "https://gvadz.click/embed-to6200nfyht2.html"
+            },
+            {
+                "show_title": "better call saul ",
+                "season": " season three ",
+                "episode_no": "5",
+                "episode_url": "https://gvadz.click/embed-u304z9sgcf8d.html"
+            },
+            {
+                "show_title": "better call saul ",
+                "season": " season three ",
+                "episode_no": "6",
+                "episode_url": "https://gvadz.click/embed-kmui9wadvm4b.html"
+            },
+            {
+                "show_title": "better call saul ",
+                "season": " season three ",
+                "episode_no": "7",
+                "episode_url": "https://gvadz.click/embed-w8adcauqb1qo.html"
+            },
+            {
+                "show_title": "better call saul ",
+                "season": " season three ",
+                "episode_no": "8",
+                "episode_url": "https://gvadz.click/embed-zxlghpjcj2mq.html"
+            },
+            {
+                "show_title": "better call saul ",
+                "season": " season three ",
+                "episode_no": "9",
+                "episode_url": "https://gvadz.click/embed-1mgzf44k3lki.html"
+            },
+            {
+                "show_title": "better call saul ",
+                "season": " season three ",
+                "episode_no": "10",
+                "episode_url": "https://gvadz.click/embed-kukl1j9kljbo.html"
+            }
+        ]
+    }
 ]
